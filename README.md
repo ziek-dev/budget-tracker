@@ -1,2 +1,2 @@
 # budget-tracker
-Simple app to trach expenses
+Simple app to track expenses
